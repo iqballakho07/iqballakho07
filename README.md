@@ -1,40 +1,75 @@
+
 <!-- ANIMATED HEADER -->
+<p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Hi+I'm+Muhammad+Iqbal+Lakho;Flutter+Developer;Software+Engineering+Student;Mobile+App+Enthusiast;Always+Learning+New+Tech" />
-  
----
-
-##  About Me
- Software Engineering Student @ Mehran University of Engineering & Technology  
- Flutter Developer | Mobile App Enthusiast  
- Building clean, scalable, and user-friendly mobile apps  
- Passionate about problem-solving and modern app development  
+</p>
 
 ---
 
-## 🛠️ Skills
+## About Me
+
+Software Engineering Student @ Mehran University of Engineering & Technology  
+Flutter Developer | Mobile App Developer  
+Building clean, scalable and user-friendly mobile applications  
+Passionate about problem-solving and modern application development  
+
+---
+
+## Current Focus
+
+Flutter UI development  
+Firebase integration  
+State management (Provider / Bloc)  
+Building portfolio projects  
+
+---
+
+## Tech Stack
 
 ### Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Mobile
+### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Database
+### Database / Backend
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iqbal-lakho)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadiqballakho07@gmail.como)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
- *Always learning, always building.*
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqballakho07&show_icons=true&theme=tokyonight)
+
+---
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iqballakho07&theme=tokyonight&hide_border=true)
+
+---
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballakho07&layout=compact&theme=tokyonight)
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-iqbal-lakho)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadiqballakho07@gmail.com)
+
+---
+
+Always learning and building.
