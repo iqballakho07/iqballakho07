@@ -42,24 +42,12 @@ Building portfolio projects
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqballakho07&show_icons=true&theme=tokyonight)
-
----
-
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iqballakho07&theme=tokyonight&hide_border=true)
 
 ---
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballakho07&layout=compact&theme=tokyonight)
-
----
 
 ## Connect with me
 
