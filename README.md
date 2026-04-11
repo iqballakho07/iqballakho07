@@ -1,11 +1,3 @@
-
-<!-- ANIMATED HEADER -->
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Hi+I'm+Muhammad+Iqbal+Lakho;Flutter+Developer;Software+Engineering+Student;Mobile+App+Enthusiast;Always+Learning+New+Tech" />
-</p>
-
----
-
 <p align="center">
   <img src="https://github.com/iqballakho07/iqballakho07/blob/main/Black%20Minimalist%20Linkedin%20Banner.png?raw=true" />
 </p>
