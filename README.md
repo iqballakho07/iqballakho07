@@ -21,6 +21,38 @@ Learning Flutter & Mobile App Development
 ### Database
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+# 👋 Hi, I'm a Flutter Developer
+
+💻 Software Engineering Student at Mehran University of Engineering & Technology  
+📱 Currently learning Flutter & Mobile App Development  
+🚀 Passionate about building clean and responsive mobile apps  
+🧠 Always learning and improving my development skills  
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+
+---
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqballakho07&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iqballakho07&theme=tokyonight)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballakho07&layout=compact&theme=tokyonight)
+
+---
+
+⭐ *Always learning, always building.*
