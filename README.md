@@ -4,8 +4,10 @@
 ---
 
 ##  About Me
-Software Engineering student at Mehran University  
-Learning Flutter & Mobile App Development
+ Software Engineering Student @ Mehran University of Engineering & Technology  
+ Flutter Developer | Mobile App Enthusiast  
+ Building clean, scalable, and user-friendly mobile apps  
+ Passionate about problem-solving and modern app development  
 
 ---
 
