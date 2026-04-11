@@ -1,5 +1,5 @@
 <!-- ANIMATED HEADER -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Hi+👋+I'm+Muhammad+Iqbal+Lakho;Flutter+Developer;Software+Engineering+Student;Mobile+App+Enthusiast;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Hi+I'm+Muhammad+Iqbal+Lakho;Flutter+Developer;Software+Engineering+Student;Mobile+App+Enthusiast;Always+Learning+New+Tech" />
   
 ---
 
