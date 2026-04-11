@@ -36,14 +36,13 @@ Learning Flutter & Mobile App Development
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iqballakho07&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iqballakho07&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballakho07&layout=compact&theme=tokyonight)
-
 ---
 
-⭐ *Always learning, always building.*
+ *Always learning, always building.*
