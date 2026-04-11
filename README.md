@@ -30,7 +30,7 @@ Learning Flutter & Mobile App Development
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqballakho07&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqballakho07&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
@@ -42,7 +42,6 @@ Learning Flutter & Mobile App Development
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballakho07&layout=compact&theme=tokyonight)
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqballakho07&layout=compact&theme=tokyonight&langs_count=8)
 
  *Always learning, always building.*
