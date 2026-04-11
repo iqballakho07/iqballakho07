@@ -1,6 +1,6 @@
-# Hi, I'm Muhammad Iqbal 👋
+# Hi, I'm Muhammad Iqbal 
 
-## 🚀 About Me
+##  About Me
 Software Engineering student at Mehran University  
 Learning Flutter & Mobile App Development
 
@@ -21,19 +21,10 @@ Learning Flutter & Mobile App Development
 ### Database
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-# 👋 Hi, I'm a Flutter Developer
-
-💻 Software Engineering Student at Mehran University of Engineering & Technology  
-📱 Currently learning Flutter & Mobile App Development  
-🚀 Passionate about building clean and responsive mobile apps  
-🧠 Always learning and improving my development skills  
-
----
-
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/muhammad-iqbal-lakho?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadiqballakho07@gmail.como)
 
 ---
 
