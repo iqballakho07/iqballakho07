@@ -56,4 +56,9 @@ Building portfolio projects
 ---
 
 
+# GitHub Stats
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=iqballakho07&theme=shadow_green&hide_border=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=iqballakho07&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iqballakho07&theme=shadow_green&hide_border=true&layout=compact)
+
 Always learning and building.
