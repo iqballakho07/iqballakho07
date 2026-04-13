@@ -49,12 +49,6 @@ Building portfolio projects
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iqballakho07&theme=tokyonight&hide_border=true)
-
----
-
 
 # GitHub Stats
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=iqballakho07&theme=shadow_green&hide_border=true&count_private=false)<br/>
