@@ -2,6 +2,8 @@
   <img src="https://github.com/iqballakho07/iqballakho07/blob/main/Black%20Minimalist%20Linkedin%20Banner.png?raw=true" />
 </p>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iqballakho07)
+
 ## About Me
 
 Software Engineering Student @ Mehran University of Engineering & Technology  
