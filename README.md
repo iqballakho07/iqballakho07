@@ -2,8 +2,9 @@
   <img src="https://github.com/iqballakho07/iqballakho07/blob/main/Black%20Minimalist%20Linkedin%20Banner.png?raw=true" />
 </p>
 
-## About Me
-Software Engineering student at Mehran University of Engineering & Technology Jamshoro with a strong focus on mobile application development. I specialize in building clean, scalable, and user-friendly applications using Flutter. Passionate about building user-friendly apps.
+About Me
+
+Software Engineering student at Mehran University of Engineering & Technology, Jamshoro, with a strong focus on mobile application development. Skilled in building clean, scalable, and user-centric applications using Flutter. Passionate about creating intuitive user experiences and continuously improving development practices through modern technologies and problem-solving.
 
 ## Current Focus
 - Flutter UI development
