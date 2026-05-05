@@ -4,7 +4,7 @@
 
 About Me
 
-Software Engineering student at Mehran University of Engineering & Technology, Jamshoro, passionate about mobile application development. I build clean, scalable, and user-focused applications using Flutter, with a strong emphasis on performance, usability, and modern development standards.
+Software Engineering student at Mehran University of Engineering & Technology, Jamshoro. Flutter developer with a focus on building scalable mobile applications, clean UI design, and efficient state management. Continuously learning and applying modern technologies to solve real-world problems.
 
 ## Current Focus
 - Flutter UI development
