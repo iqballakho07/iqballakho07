@@ -35,5 +35,3 @@ Software Engineering student at Mehran University of Engineering & Technology, J
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iqballakho07&theme=shadow_green&hide_border=true&layout=compact)
 Always learning and building.
 
-
-this is my current github profile look can you upgrade it to look better and
