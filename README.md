@@ -80,7 +80,7 @@ Passionate Flutter developer focused on building scalable mobile applications wi
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iqballakho07&theme=shadow_green&hide_border=true&count_private=false" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iqballakho07&theme=shadow_green&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
