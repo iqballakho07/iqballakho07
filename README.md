@@ -84,7 +84,7 @@ Passionate Flutter developer focused on building scalable mobile applications wi
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=iqballakho07&theme=shadow_green&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=iqballakho07&theme=shadow_green&hide_border=true&include_all_commits=true" />
 </p>
 
 <p align="center">
