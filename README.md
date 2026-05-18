@@ -4,10 +4,6 @@
 
 <h1 align="center">Muhammad Iqbal Lakho</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=iqballakho07&label=Profile%20views&color=0e75b6&style=flat" alt="iqballakho07" />
-</p>
-
 <p align="center">
   Flutter Developer • Software Engineering Student • Mobile App Enthusiast
 </p>
