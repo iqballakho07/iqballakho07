@@ -2,7 +2,7 @@
   <img src="https://github.com/iqballakho07/iqballakho07/blob/main/Black%20Minimalist%20Linkedin%20Banner.png?raw=true" alt="Banner" />
 </p>
 
-<h1 align="center">Muhammad Iqbal Lakho</h1>
+<h1 align="center">Muhammad Iqbal</h1>
 
 <p align="center">
   Flutter Developer • Software Engineering Student • Mobile App Enthusiast
