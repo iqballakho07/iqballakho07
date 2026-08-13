@@ -1,20 +1,20 @@
-<p align="center">
-  <img src="https://github.com/iqballakho07/iqballakho07/blob/main/Black%20Minimalist%20Linkedin%20Banner.png?raw=true" alt="Banner" />
-</p>
-
-<h1 align="center">Muhammad Iqbal</h1>
+<h1 align="center">
+  👋 Hi, I'm Muhammad Iqbal
+</h1>
 
 <p align="center">
-  Flutter Developer • Software Engineering Student • Mobile App Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Flutter+Developer;Software+Engineering+Student;Mobile+App+Enthusiast;Learning+and+Building+Every+Day" alt="Typing Animation" />
 </p>
 
+<p align="center">
+  <i>Building simple things, learning new things, and improving every day 🚀</i>
+</p>
 ---
 
 
 ## About Me
-
-Software Engineering student at Mehran University of Engineering & Technology, Jamshoro.
-Passionate Flutter developer focused on building scalable mobile applications with clean UI design, efficient state management, and modern development practices. 
+<p>Software Engineering student at Mehran University of Engineering & Technology, Jamshoro.
+Passionate Flutter developer focused on building scalable mobile applications with clean UI design, efficient state management, and modern development practices. </p>
 ---
 
 ## Current Focus
