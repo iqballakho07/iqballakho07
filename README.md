@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Muhammad Iqbal</h1>
+<h1 align="center">Hey I'm Muhammad Iqbal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Software+Engineering+Student;Mobile+App+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
@@ -12,30 +12,30 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```text
-🎓 Software Engineering Student
-📱 Currently focused on Flutter development
-🧠 Learning by building real projects
-🔧 Interested in mobile app development
-🚀 Improving my skills one project at a time
+ Software Engineering Student
+ Currently focused on Flutter development
+ Learning by building real projects
+ Interested in mobile app development
+ Improving my skills one project at a time
 ```
 
 ---
 
-## 🛠️ What I Work With
+##  What I Work With
 
 | Area         | Technologies                        |
 | ------------ | ----------------------------------- |
-| 📱 Mobile    | Flutter • Dart                      |
-| 💻 Languages | Dart • Java • Kotlin • C++ • Python |
-| 🗄️ Database | SQLite • SQL • Firebase             |
-| 🔧 Tools     | Git • GitHub • VS Code              |
+|    Mobile    | Flutter • Dart                      |
+|    Languages | Dart • Java • Kotlin • C++ • Python |
+|     Database | SQLite • SQL • Firebase             |
+|    Tools     | Git • GitHub • VS Code              |
 
 ---
 
-## 🚀 Currently Building
+##  Currently Building
 
 **Flutter Projects**
 
@@ -50,13 +50,13 @@ I'm currently practicing Flutter by building small applications and focusing on:
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 > More projects coming as I continue learning and building.
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iqballakho07&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
@@ -65,15 +65,15 @@ I'm currently practicing Flutter by building small applications and focusing on:
 
 ---
 
-## 🐍 My Contribution Journey
+##  My Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/iqballakho07/iqballakho07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-iqbal-lakho">
